@@ -5,8 +5,7 @@
 - All Fogged Up...
 - A Minute's Silence...of Sorts
 - Just Blow the Whistle!!
-- 
-- ~~[Theropoda](#theropoda)~~
+- Sold for Sausages
 
 ## All Fogged Up...
 Arsenal played a friendly against Dynamo Moscow in heavy fog in 1945 at White Hart Lane and despite the urging of players to suspend play due to the fog, the referee decided that play should continue.
@@ -27,7 +26,7 @@ However, the public relations department at Congleton might want to get new sour
 
 ## Just Blow the Whistle!!
 
-Time for some Danish football now and we pity local side Ebeltoft, who were robbed of a deserved draw when playing Norager in the domestic competition.
+Time for some Danish football now and we pity local side Ebeltoft, who were robbed of a [deserved draw when playing Norager](https://www.youtube.com/watch?v=yEGRMBfgxCU) in the domestic competition.
 
 Norager were leading 4-3 with seconds remaining when Ebeltoft went on the attack. As they pressed forward, however, referee Henning Erikstrup went to blow the final whistle.
 
@@ -39,11 +38,13 @@ Erikstrup disallowed the goal and blew the final whistle, handing Norager a 4-3 
 
 *Final score: Norager 4, Ebeltoft 3.*
 
-## Testudines
+## Sold for Sausages
+
 Over to ~~Romania~~ and a side was seeking a refund after they had purchased a player not in cold hard cash but for sausage meat. Believe it or not, this included *15 kilograms* of the finest pork meat which was paid for defender Marius Cioara. At the time he was plying his trade for UT Arad who played their football in the second division. In spite of the jibes the centre back ended up retiring soon after. This was after he was unable to take any more abuse relating to this particular transfer. In fact he had to flee the country as the barrage of abuse was that much.
 
+ 
 
 
-By: Vass Máté
+Bubenkó Zsolt
 
-Neptun Code: HU85BK
+Neptun: EQKQNB
