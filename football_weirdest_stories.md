@@ -1,46 +1,48 @@
-#                                       Reptiles
+# Football's weirdest stories
 
---- 
+## Stories
 
-## Classification
-
-- [Classification](#classification)
-- [Crocodilia](#crocodilia)
-- [Sphenodontia](#sphenodontia)
-- [Squamata](#squamata)
-- [Testudines](#testudines)
+- All Fogged Up...
+- A Minute's Silence...of Sorts
+- Just Blow the Whistle!!
+- 
 - ~~[Theropoda](#theropoda)~~
 
-## Crocodilia
-![Crocodile](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_14481062/Image/City%20Hall/Departments/Animal%20Services/Urban%20Wildlife/Learn%20About%20Urban%20Wildlife/Alligators/Banner_Alligator_03.jpg)
+## All Fogged Up...
+Arsenal played a friendly against Dynamo Moscow in heavy fog in 1945 at White Hart Lane and despite the urging of players to suspend play due to the fog, the referee decided that play should continue.
 
-Crocodilia, containing both alligators[^1] and crocodiles[^2], is an order of large reptiles. Reptiles belonging to Crocodilia are the closest living relatives of birds. Reptiles and birds are the only known living descendants of the dinosaurs. Some would day that alligators and crocodiles actually look like small dinosaurs. Dinosaurs that evolved wings are the ancestors of birds.
+The fog was so thick that the game turned into an absolute farce, with both sides playing by their own set of rules and suffering their own bad luck because of the inclement weather.
 
-## Sphenodontia
-![Tuatara](https://s3-us-west-1.amazonaws.com/scifindr/articles/image2s/000/002/740/large/Tuatara.jpg?1472788759)
+Moscow at one point made a substitution but didn't take a player off, with fans watching the match believing that the Russian club had up to 15 players on the pitch at the one time.
 
-Sphenodontia includes only one living genus that has just two living species, both tuataras (Sphenodon). The tuatara is a sphenodont that is found only in New Zealand. The two species of tuatara are the only surviving members of the sphenodontians, who lived around 200 million years ago. Tuataras resemble lizards but are equally related to lizards and snakes, both of which are classified as Squamata. For this reason, tuataras are of great interest both for the study of the evolution of lizards and snakes and for the reconstruction of the appearances and habits of a group of reptile ancestors called diapsids (the group that additionally includes birds and crocodiles).
+Arsenal also made the best of the conditions, with one of their players—who had earlier been sent off—sneaking back onto the pitch and playing the remainder of the game.
 
-## Squamata
-![Bearded Dragon](https://www.pendletonvet.com/wp-content/uploads/2022/06/Paris-bearded-dragon.png)
+However, they did suffer some bad luck, with their goalkeeper knocking himself out cold after running into the goalpost, which of course, he could not see due to the fog. A spectator reportedly took his place in goals and the match continued.
 
-Squamata (scaled reptiles), which includes lizards and snakes, is the largest recent order of reptiles. Members of the order are distinguished by their skin, which bears **horny** scales or shields. They also have movable jaw bones, making it possible for them to move their upper jaw relative to their skull. The movable jaws are most notable in snakes, which are able to open their mouths very wide to swallow large prey. This is also the only reptile group that has both viviparous and ovoviviparous species, as well as the usual oviparous reptiles.
+## A Minute's Silence...of Sorts
+
+A truly embarrassing moment for HFS Loans League team Congleton occurred in 1993 when holding a minute's silence before the match to mourn the death of the club's oldest fan who had reportedly passed away during week.
+
+However, the public relations department at Congleton might want to get new sources after they were forced to cancel the minute's silence when the fan *walked into the ground* to witness the ground in his minute's silence memorial.
+
+## Just Blow the Whistle!!
+
+Time for some Danish football now and we pity local side Ebeltoft, who were robbed of a deserved draw when playing Norager in the domestic competition.
+
+Norager were leading 4-3 with seconds remaining when Ebeltoft went on the attack. As they pressed forward, however, referee Henning Erikstrup went to blow the final whistle.
+
+Only problem was that his false teeth fell out as he went to blow the whistle—meaning that no noise came out and play continued as normal. Ebeltoft scored to make it 4-4 by the time that Erikstrup found his false teeth and put them back into his mouth.
+
+So, 4-4 right? Mmmm. Not so much.
+
+Erikstrup disallowed the goal and blew the final whistle, handing Norager a 4-3 win. Ebeltoft protested the match immediately following the loss and took the result to the equivalent of what is the Football Association in Denmark, but their protests were denied.
+
+*Final score: Norager 4, Ebeltoft 3.*
 
 ## Testudines
-![da](https://www.fisheries.noaa.gov/s3/styles/full_width/s3/dam-migration/hawksbill_sea_turtle.jpg?itok=ESbU98wo)
+Over to ~~Romania~~ and a side was seeking a refund after they had purchased a player not in cold hard cash but for sausage meat. Believe it or not, this included *15 kilograms* of the finest pork meat which was paid for defender Marius Cioara. At the time he was plying his trade for UT Arad who played their football in the second division. In spite of the jibes the centre back ended up retiring soon after. This was after he was unable to take any more abuse relating to this particular transfer. In fact he had to flee the country as the barrage of abuse was that much.
 
-Modern turtles are placed into one of two suborders within the Testudines *Peurodira* (side-necked) and *Cryptodira* (hidden neck). The namesake difference between the two is the method of head retraction. In pleurodires, the neck vertebrae flex laterally, allowing the neck to bend and pull the head in sideways. In cryptodires, the neck vertebrae flex vertically, allowing the head to be drawn straight back within the shell. The *Pelomedusidae* and *Chelidae* are the only extant families of *pleurodires*. The *Carettochelyidae*, *Cheloniidae*, *Chelydridae*, *Dermatemydidae*, *Dermochelyidae*, *Emydidae*, *Kinosternidae*, *Testudinidae*, and *Trionychidae* are all cryptodires, although the ability to retract the head has been lost in the sea turtles (*Cheloniidae* and *Dermochelyidae*).
 
-## Theropoda
-![Tyrannosaurus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/1200px-Tyrannosaurus_Rex_Holotype.jpg)
-
-Theropoda (from Ancient Greek 'wild beast', and 'foot'), whose members are known as theropods, is a dinosaur clade that is characterized by hollow bones and three toes and claws on each limb. Theropods are generally classed as a group of saurischian dinosaurs. They were ancestrally carnivorous, although a number of theropod groups evolved to become herbivores and omnivores. Theropods first appeared during the Carnian age of the late Triassic period 231.4 million years ago and included the majority of large terrestrial carnivores from the Early Jurassic until at least the close of the Cretaceous, about 66 Ma. In the Jurassic, birds evolved from small specialized coelurosaurian theropods, and are today represented by about 10,500 living species. 
-
-[^1]: You can identify by it's V-shaped snout.
-[^2]: You can identify by it's U-shaped snout.
-
-#### Sources
-[CK-12](https://flexbooks.ck12.org/cbook/ck-12-biology-flexbook-2.0/section/12.16/primary/lesson/reptile-classification-bio/)
 
 By: Vass Máté
 
